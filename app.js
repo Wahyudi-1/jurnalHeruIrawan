@@ -1,7 +1,7 @@
 /**
  * =================================================================
  * SCRIPT UTAMA FRONTEND - JURNAL PEMBELAJARAN (VERSI DENGAN UX IMPROVEMENT)
- * =================================================================
+ * ================================================================
  * @version 5.6 - Peningkatan UX pada Form Siswa
  * @author Gemini AI Expert for User
  *
